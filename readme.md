@@ -1,22 +1,7 @@
-<div align="center">	
-	<p>	
-		<a href="https://doppler.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-bots&utm_source=github">	
-      <div>	
-				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="260"  alt="Doppler">	
-			</div>	
-      <br>
-			<b>All your environment variables, in one place</b>	
-			<div>Stop struggling with scattered API keys, hacking together home-brewed tools,</div>
-			<div>and avoiding access controls. Keep your team and servers in sync with Doppler.</div>
-			</br>
-		</a>	
-	</p>	
-</div>	
+	
 
 
-# Awesome bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-> Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
+# Awesome bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 ## Table of Contents
 - [Voice bots](#voice-bots)
